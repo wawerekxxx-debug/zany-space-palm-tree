@@ -1,3 +1,5 @@
+
+
 # ChatGPT + Enterprise data with Azure OpenAI and Azure AI Search
 
 ## Table of Contents
